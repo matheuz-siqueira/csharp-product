@@ -1,0 +1,15 @@
+/home/matheus/Projetos/csharp-product/bin/Debug/net7.0/csharp-product
+/home/matheus/Projetos/csharp-product/bin/Debug/net7.0/csharp-product.deps.json
+/home/matheus/Projetos/csharp-product/bin/Debug/net7.0/csharp-product.runtimeconfig.json
+/home/matheus/Projetos/csharp-product/bin/Debug/net7.0/csharp-product.dll
+/home/matheus/Projetos/csharp-product/bin/Debug/net7.0/csharp-product.pdb
+/home/matheus/Projetos/csharp-product/obj/Debug/net7.0/csharp-product.csproj.AssemblyReference.cache
+/home/matheus/Projetos/csharp-product/obj/Debug/net7.0/csharp-product.GeneratedMSBuildEditorConfig.editorconfig
+/home/matheus/Projetos/csharp-product/obj/Debug/net7.0/csharp-product.AssemblyInfoInputs.cache
+/home/matheus/Projetos/csharp-product/obj/Debug/net7.0/csharp-product.AssemblyInfo.cs
+/home/matheus/Projetos/csharp-product/obj/Debug/net7.0/csharp-product.csproj.CoreCompileInputs.cache
+/home/matheus/Projetos/csharp-product/obj/Debug/net7.0/csharp-product.dll
+/home/matheus/Projetos/csharp-product/obj/Debug/net7.0/refint/csharp-product.dll
+/home/matheus/Projetos/csharp-product/obj/Debug/net7.0/csharp-product.pdb
+/home/matheus/Projetos/csharp-product/obj/Debug/net7.0/csharp-product.genruntimeconfig.cache
+/home/matheus/Projetos/csharp-product/obj/Debug/net7.0/ref/csharp-product.dll
